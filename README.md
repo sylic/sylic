@@ -1,14 +1,16 @@
 ## 👋 Hi,my friend
 
-- 🗽 <font face="boldsymbol" size=3>I'm a front-end developer from Nanjing **.** Jiangsu</font>
+- 🗽 <font face="boldsymbol" size=3>I am a front-end developer and currently working in Nanjing **,** Jiangsu, with 1.5 years of work experience. </font>
 
 - 🌱<font face="boldsymbol" size=3>I have been recently learning how to build a personal website using Nuxt.js.</font>
 
-- 💌 <font face="boldsymbol" size=3>reach me by email: lilistar076@gmail.com</font>
+- 😉<font face="boldsymbol" size=3>If you also like programming, feel free to share some ideas.</font>
+
+- 💌 <font face="boldsymbol" size=3>Reach me by email: lilistar076@gmail.com .</font>
 
 ---
 
-### My Stack
+### 😜 Skill Acquisition
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
 ![React.js](https://img.shields.io/badge/React-0A7EA4?logo=react&logoColor=fff&style=flat)
